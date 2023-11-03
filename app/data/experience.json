@@ -1,0 +1,23 @@
+[
+    {
+        "id":0,
+        "heading":"Internee As A Frontend Developer",
+        "uni":"Mayonity",
+        "year":"2023",
+        "responsiblity":"Learn Tailwind, Css, React"
+    },
+    {
+        "id":1,
+        "heading":"Trainee Consultant ",
+        "uni":"Mayonity",
+        "year":"2023",
+        "responsiblity":"Done UI designing Projects and also tranined people in designing"
+    },
+    {
+        "id":2,
+        "heading":"Training IN ",
+        "uni":"AXIOM",
+        "year":"2023",
+        "responsiblity":"Doing Work on Real time Project"
+    }
+]

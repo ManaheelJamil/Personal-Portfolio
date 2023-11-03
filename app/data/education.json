@@ -1,0 +1,23 @@
+[
+    {
+        "id":0,
+        "heading":"Matriculation  ",
+        "school":"B.H.M School",
+        "year":"2016",
+        "para":"I have done Matric in Computer Science in  2016 by GRADE A got 73% in the age of 16  "
+    },
+    {
+        "id":1,
+        "heading":"Intermediate ",
+        "school":"Khadija Girls College",
+        "year":"2018-2020",
+        "para":"I have done Intermediate in Pre-Engeneering by Khaija girls college and i got 100% scholarship from my college mam "
+    },
+    {
+        "id":2,
+        "heading":"Bachelors",
+        "school":"Federal-Urdu-University",
+        "year":"2021...",
+        "para":"Now i am doing BS Mathematics from Federal Urdu University and right now i am in 6 Semester "
+    }
+]
